@@ -1,10 +1,10 @@
 dependencies {
-    api(project(":utils"))
+    api(project(":aoc-utils"))
 
-    implementation(libs.commons.codec)
-    implementation(libs.commons.lang3)
+    implementation(aoc2018Libs.commons.codec)
+    implementation(aoc2018Libs.commons.lang3)
 
-    testImplementation(libs.equalsverifier)
+    testImplementation(aoc2018Libs.equalsverifier)
 
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 }
