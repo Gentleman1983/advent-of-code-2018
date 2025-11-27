@@ -34,7 +34,7 @@ To run all solutions, simply run `./gradlew run`. If you want to run the solutio
 | 10      | ⭐ ![Kotlin](img/kotlin.png)                          | ⭐ ![Kotlin](img/kotlin.png)                          |
 | 11      | ⭐ ![Kotlin](img/kotlin.png)                          | ⭐ ![Kotlin](img/kotlin.png)                          |
 | 12      | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)                              |
-| 13      | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)                              |
+| 13      | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)                               |
 | 14      | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)                              |
 | 15      | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)                              |
 | 16      | ⭐ ![Java](img/java.png)                              | ⭐ ![Java](img/java.png)                              |
